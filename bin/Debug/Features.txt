@@ -1,0 +1,34 @@
+last saved: 
+
+FEATURES TO ADD
+- star in title if not saved
+- ctrl + A to select all.
+- ctrl + backspace to del entire word.
+- rename current file.
+- .LOG feature for last saved
+- f5 to insert datetime
+- highlight text and drag to destination
+- settings button
+- remember many undos
+- multiline tab (alt highlight + tab?)
+- compile cs file
+- statusbar cursor position
+- Find and Replace
+- Context Menu Insert blank lines
+
+PARTIALLY DONE
+- drag and drop to icon (highlights all text on open)
+
+DONE
+- name of file in titlebar
+- change open and save initial file directory to desktop
+- drag and drop to textbox 
+- ctrl+s shortcut
+- context menu for textbox
+- 4 space tabs
+- closing prompts for any unsaved document
+- save as on close
+- new file button
+
+
+

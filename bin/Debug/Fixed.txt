@@ -1,0 +1,6 @@
+BUGS
+- After drag and drop to icon, textbox highlights all text.
+
+Fixed
+- Drag and drop on icon asks to save when no changes are made when close button is pressed.
+- Drag and drop on icon does not give focus to window (can't scroll)

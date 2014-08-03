@@ -1,0 +1,5 @@
+NOTES
+- atm word wrap is always on.
+- ctrl+s shortcut created
+- Ctrl + Back Arrow already works without any code.
+- Save As function not implemented intentionally because it allows users to think that they can save it as another copy later, and overwrite the original by mistake. (Copy All, New File, Paste is recommended instead).

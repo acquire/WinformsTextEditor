@@ -1,0 +1,17 @@
+C:\Users\Mike\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Mike\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Mike\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Mike\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+C:\Users\Mike\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Mike\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Mike\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\Mike\Desktop\Desktop Archive\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Mike\Desktop\Desktop Archive\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Mike\Desktop\Desktop Archive\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\Mike\Desktop\Desktop Archive\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Mike\Desktop\Desktop Archive\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Mike\Desktop\Desktop Archive\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Desktop Archive\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+C:\Users\Mike\Desktop\Desktop Archive\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Mike\Desktop\Desktop Archive\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
